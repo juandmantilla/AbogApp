@@ -1,5 +1,5 @@
 <p aling="center" >
-    <img width="880" src="Portada/portada.jpg">
+    <img width="680" height="auto" src="Portada/portada.jpg">
 </p>
 
 # AbogApp
@@ -8,4 +8,5 @@ Abogapp es una plataforma actualmente en desarrollo que permite la comunicación
 
 # Autores
 ** Juan David Mantilla López
+
 ** Fabio Geney
