@@ -9,4 +9,3 @@ Abogapp es una plataforma actualmente en desarrollo que permite la comunicación
 # Autores
 * **Juan David Mantilla López**
 
-* **Fabio Geney**
